@@ -1,4 +1,9 @@
- b {
+body {
+	font-family: Ubuntu;
+}
+
+
+b {
 	 color: red;
  }
  
